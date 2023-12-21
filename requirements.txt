@@ -1,0 +1,6 @@
+pygame
+tk
+nltk
+spacy
+rapidfuzz
+python-Levenshtein
